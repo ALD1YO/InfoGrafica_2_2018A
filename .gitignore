@@ -1,0 +1,7 @@
+*.exe
+*.ilk
+*.pdb
+*.tlog
+Debug
+x64
+*.sln
