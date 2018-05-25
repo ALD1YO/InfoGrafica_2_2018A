@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graficas22018A", "Graficas22018A\Graficas22018A.vcxproj", "{A210D38D-EDF6-42E5-BF7D-6BE4884000C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A210D38D-EDF6-42E5-BF7D-6BE4884000C1}.Debug|x64.ActiveCfg = Debug|x64
+		{A210D38D-EDF6-42E5-BF7D-6BE4884000C1}.Debug|x64.Build.0 = Debug|x64
+		{A210D38D-EDF6-42E5-BF7D-6BE4884000C1}.Debug|x86.ActiveCfg = Debug|Win32
+		{A210D38D-EDF6-42E5-BF7D-6BE4884000C1}.Debug|x86.Build.0 = Debug|Win32
+		{A210D38D-EDF6-42E5-BF7D-6BE4884000C1}.Release|x64.ActiveCfg = Release|x64
+		{A210D38D-EDF6-42E5-BF7D-6BE4884000C1}.Release|x64.Build.0 = Release|x64
+		{A210D38D-EDF6-42E5-BF7D-6BE4884000C1}.Release|x86.ActiveCfg = Release|Win32
+		{A210D38D-EDF6-42E5-BF7D-6BE4884000C1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37B5CFCA-5F73-40BF-8159-D39ABC4916BD}
+	EndGlobalSection
+EndGlobal

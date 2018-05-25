@@ -4,7 +4,4 @@
 *.tlog
 Debug
 x64
-*.sln
-*.db
-*.opendb
-*.ipch
+
